@@ -12,8 +12,10 @@ Tensorflow and Python application that can train an image classifier on a datase
 - scikit-learn: To import the required supervised learning models. 
 
 ## Required files 
-- [Census dataset](https://github.com/EsraaMaskati/Finding-Donors-for-CharityML/blob/master/census.csv)
-- [visuals](https://github.com/EsraaMaskati/Finding-Donors-for-CharityML/blob/master/visuals.py)
+- [The model](https://github.com/EsraaMaskati/Tensorflow-Image-Classifier/blob/master/best_model.h5)
+- [process_image.py](https://github.com/EsraaMaskati/Tensorflow-Image-Classifier/blob/master/process_image.py)
+- [predict.py](https://github.com/EsraaMaskati/Tensorflow-Image-Classifier/blob/master/predict.py)
+- [Jupyter Notebook](https://github.com/EsraaMaskati/Tensorflow-Image-Classifier/blob/master/Project_Image_Classifier_Project.ipynb)
 
 ## Usage
 After downloading the required files, run the folowing command in the terminal:
